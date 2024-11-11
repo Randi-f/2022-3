@@ -1,0 +1,26 @@
+Dependencies for Project 'JPESD_L1', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.c)(0x623F1B8E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-ID:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include-ID:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\RTE_Driver-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+F (D:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\RTE_Driver\GPIO_STM32F10x.c)(0x5FC04FEA)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-ID:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include-ID:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\RTE_Driver-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o .\gpio_stm32f10x.o --omf_browse .\gpio_stm32f10x.crf --depend .\gpio_stm32f10x.d)
+I (D:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\RTE_Driver\GPIO_STM32F10x.h)(0x5FC04FEA)
+I (D:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x6025237C)
+I (D:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x61AD795E)
+I (.\RTE\_Target_1\RTE_Components.h)(0x6236F40D)
+I (D:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3E8E2)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (D:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD795E)
+F (RTE\Device\STM32F103RB\RTE_Device.h)(0x5FC04FEA)()
+F (RTE\Device\STM32F103RB\startup_stm32f10x_md.s)(0x61AD795E)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-ID:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include-ID:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\RTE_Driver--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1" --pd "_RTE_ SETA 1"--list .\startup_stm32f10x_md.lst --xref -o .\startup_stm32f10x_md.o --depend .\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103RB\system_stm32f10x.c)(0x61AD795E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103RB-I.\RTE\_Target_1-ID:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include-ID:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\RTE_Driver-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (D:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x61AD795E)
+I (.\RTE\_Target_1\RTE_Components.h)(0x6236F40D)
+I (D:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3E8E2)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025237E)
+I (D:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3E8E2)
+I (D:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3E8E2)
+I (D:\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D3E8E2)
+I (D:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD795E)

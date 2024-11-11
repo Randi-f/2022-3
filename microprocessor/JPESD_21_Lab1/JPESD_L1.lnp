@@ -1,0 +1,8 @@
+--cpu Cortex-M3
+".\main.o"
+".\gpio_stm32f10x.o"
+".\startup_stm32f10x_md.o"
+".\system_stm32f10x.o"
+--ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\JPESD_L1.map" -o .\JPESD_L1.axf
